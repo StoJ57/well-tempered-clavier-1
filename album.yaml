@@ -1,5 +1,8 @@
 name: The Well-Tempered Clavier
 artist: Bach
+performer: John Lewis Grant
+license: CC BY-NC-ND
+art: https://i.scdn.co/image/a2ec08fe69ecec2748fbc764aede8f1b03ae8f88
 
 include:
  - Prelude & Fugue 1: https://raw.githubusercontent.com/StoJ57/well-tempered-clavier/main/Prelude & Fugue 1.mp3
